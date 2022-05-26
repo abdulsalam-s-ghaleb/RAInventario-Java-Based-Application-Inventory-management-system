@@ -1,0 +1,2 @@
+# RAInventario-Java-Based-Application-Inventory-management-system
+Java-Based Application Inventory management system enhanced with the GUI and SQL server. Java-Based application Inventory management system enhanced with the GUI and SQL server.Many functions developed in this project including managing users, manage stock, manage sales and give a role for every user with specific permission. manage category.
